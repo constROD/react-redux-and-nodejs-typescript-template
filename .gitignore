@@ -2,8 +2,8 @@
 node_modules
 
 # Build
-build
-dist
+client_build
+api_build
 
 # Lock
 package-lock.json
