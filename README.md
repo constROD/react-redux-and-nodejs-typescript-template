@@ -1,4 +1,4 @@
-# React Redux and Node.js w/ Typescript Template
+# React Redux and Node.js w/ TypeScript Template
 This repo is build with webpack
 
 # Installation
